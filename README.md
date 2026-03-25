@@ -8,13 +8,14 @@ Profiles for the **ProForge 300**, **ProForge 4.2**, and **ProForge 5** toolchan
 
 Download and extract the release zip, then copy the `Makertech/` folder and `Makertech.json` into the OrcaSlicer profiles directory for your platform:
 
+> **First time installing OrcaSlicer on a MAC?** Launch OrcaSlicer first and then close it (right click on icon in dock and hit quit) before copying over the files.
+
 | Platform | Path |
 |---|---|
 | Windows | `C:\Program Files\OrcaSlicer\resources\profiles\` |
 | macOS | Right-click `OrcaSlicer.app` → Show Package Contents → `Contents/Resources/profiles/` |
 | Linux | `~/.local/share/OrcaSlicer/resources/profiles/` |
 
-> **First time installing OrcaSlicer?** Copy the profiles before launching OrcaSlicer for the first time — the setup wizard that runs on first launch will then include the ProForge printers in its printer list.
 
 ---
 
