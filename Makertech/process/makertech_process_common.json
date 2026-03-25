@@ -21,7 +21,7 @@
     "wipe_tower_bridging": "15",
     "wipe_tower_cone_angle": "12",
     "accel_to_decel_enable": "0",
-    "version": "02.03.02.61",
+    "version": "02.03.02.60",
     "compatible_printers": [
         "ProForge 300",
         "ProForge 4.2",

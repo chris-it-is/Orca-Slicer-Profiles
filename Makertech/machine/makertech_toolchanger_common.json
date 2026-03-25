@@ -59,7 +59,7 @@
     "time_lapse_gcode": "",
     "upward_compatible_machine": [],
     "default_print_profile": "Makertech Standard 0.20",
-    "version": "02.03.02.61",
+    "version": "02.03.02.60",
     "physical_extruder_map": [
         "0"
     ],

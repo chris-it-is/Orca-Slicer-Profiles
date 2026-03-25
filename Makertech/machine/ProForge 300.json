@@ -7,7 +7,7 @@
     "family": "Makertech",
     "hotend_model": "",
     "default_materials": "Makertech PLA;Makertech PETG;Makertech ABS",
-    "version": "02.03.02.61",
+    "version": "02.03.02.60",
     "bed_model": "ProForge 300_bed.stl",
     "bed_texture": "ProForge 300_bed.svg"
 }

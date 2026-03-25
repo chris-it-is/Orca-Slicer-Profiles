@@ -7,6 +7,7 @@
     "instantiation": "true",
     "gcode_flavor": "klipper",
     "printer_model": "ProForge 300",
+    "print_host": "proforge300.local",
     "default_filament_profile": [
         "Makertech PLA @Makertech",
         "Makertech PLA @Makertech",
@@ -302,7 +303,7 @@
     ],
     "z_offset": "0",
     "max_print_height": "300",
-    "version": "02.03.02.61",
+    "version": "02.03.02.60",
     "compatible_process": [
         "ProForge 0.12 Fine",
         "ProForge 0.20 Standard",

@@ -4,7 +4,7 @@
     "from": "system",
     "instantiation": "false",
     "inherits": "fdm_filament_common",
-    "version": "02.03.02.61",
+    "version": "02.03.02.60",
     "compatible_printers": [
         "ProForge 300",
         "ProForge 4.2",
