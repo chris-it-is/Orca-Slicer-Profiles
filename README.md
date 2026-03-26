@@ -15,6 +15,7 @@ Download and extract the release zip, then copy the `Makertech/` folder and `Mak
 | Windows | `C:\Program Files\OrcaSlicer\resources\profiles\` |
 | macOS | Right-click `OrcaSlicer.app` → Show Package Contents → `Contents/Resources/profiles/` |
 | Linux | `~/.local/share/OrcaSlicer/resources/profiles/` |
+| Linux Flatpak | `/var/lib/flatpak/app/com.orcaslicer.OrcaSlicer/current/active/files/share/OrcaSlicer/profiles` |
 
 
 ---
